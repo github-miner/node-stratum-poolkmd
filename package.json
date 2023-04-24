@@ -35,10 +35,9 @@
         "bitgo-utxo-lib": "https://github.com/miketout/bitgo-utxo-lib.git",
         "equihashverify": "https://github.com/webworker01/equihashverify.git",
         "merkle-bitcoin" : "https://github.com/webworker01/merkle-bitcoin.git",
-        "promise": "^8.0.2",
-        "verushash": "https://github.com/VerusCoin/verushash-node.git"
+        "promise": "^8.0.2"
     },
     "engines": {
-        "node": ">=10"
+        "node": ">=17"
     }
 }
